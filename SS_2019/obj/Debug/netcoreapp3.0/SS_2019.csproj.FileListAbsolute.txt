@@ -7,7 +7,6 @@ C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\bin\Debug\netcoreapp3.0\SS
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\bin\Debug\netcoreapp3.0\SS_2019.runtimeconfig.dev.json
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\bin\Debug\netcoreapp3.0\SS_2019.dll
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\bin\Debug\netcoreapp3.0\SS_2019.pdb
-C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\obj\Debug\netcoreapp3.0\SS_2019.csprojAssemblyReference.cache
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\obj\Debug\netcoreapp3.0\staticwebassets\SS_2019.StaticWebAssets.Manifest.cache
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\obj\Debug\netcoreapp3.0\staticwebassets\SS_2019.StaticWebAssets.xml
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\obj\Debug\netcoreapp3.0\SS_2019.AssemblyInfoInputs.cache
@@ -118,3 +117,4 @@ C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\bin\Debug\netcoreapp3.0\Ne
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Oleksandr Gevko\source\repos\SS_2019\SS_2019\obj\Debug\netcoreapp3.0\SS_2019.csprojAssemblyReference.cache

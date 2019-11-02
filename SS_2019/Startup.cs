@@ -32,7 +32,7 @@ namespace SS_2019
         {
 
             services.AddControllers();
-            services.AddDbContext<SScontext>(options => options.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = NGTS; Integrated Security = True; Connect Timeout = 30; Encrypt = False; TrustServerCertificate = False; ApplicationIntent = ReadWrite; MultiSubnetFailover = False"));
+            services.AddDbContext<SScontext>(options => options.UseSqlServer("Data Source=omr.database.windows.net;Initial Catalog=NGTS_bd;User ID=gevko;Password=PaPut4Q3T3Pari4_;Connect Timeout=60;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"));
             services.AddSwaggerGen(x => {
                 x.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "SS API", Version = "v1"});
             });
